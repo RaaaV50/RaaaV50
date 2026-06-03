@@ -67,15 +67,6 @@
 </div>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RaaaV50&theme=tokyonight&hide_border=false" />
-</p>
-
-<div align="center">
-    <img align="center"
-        src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<p align="center">
     <img align="center"
         src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
 </p>
@@ -86,9 +77,11 @@
 </div>
 
 <div align="center">
-    ### 💬 Quote of the Day
-    <br><br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 💬 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&locale" alt="Quote of the Day" />
+
 </div>
 
 <br />
