@@ -37,7 +37,7 @@
 
 #### 🌐 languages & frameworks
 
-<img src="https://skillicons.dev/icons?i=react,html,typescript,javascript,python,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,typescript,javascript,python,django,c&theme=dark" />
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
