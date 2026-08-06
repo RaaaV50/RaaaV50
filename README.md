@@ -20,7 +20,7 @@
 
 <p>💼 Currently building solutions at <b>Medabil Structural Solutions</b></p>
 <p>🌍 Based in <b>Nova Bassano - RS, Brazil</b></p>
-<p>⚙️ Always exploring <b>PHP, Django, HTML5, CSS, JS</b></p>
+<p>⚙️ Always exploring <b>PHP, Django, HTML5, CSS, JS, TS, C and Linux Server</b></p>
 
 </div>
 
@@ -37,13 +37,14 @@
 
 #### 🌐 languages & frameworks
 
-<img src="https://skillicons.dev/icons?i=react,html,typescript,javascript,python,django,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,typescript,javascript,python,django,c,linux&theme=dark" />
+
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### 🏗️ infrastructure & devops
 
-<img src="https://skillicons.dev/icons?i=github,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,azure,ubuntu,docker,debian&theme=dark" />
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
