@@ -20,9 +20,9 @@
 
 <p>💼 Currently building solutions at <b>Medabil Structural Solutions</b></p>
 <p>🌍 Based in <b>Nova Bassano - RS, Brazil</b></p>
-<p>⚙️ Always exploring <b>PHP, Django, HTML5, CSS, JS, TS, C and Linux Server</b></p>
+<p>⚙️ Always exploring <b> React, Tailwind, C/C++, Android-Studio</b></p>
 
-<p>🌐 < My WebPage - https://cassio-cortelini.com.br > </p>
+<p>🌐 <b> < My WebPage - https://cassio-cortelini.com.br > </b> </p>
 
 </div>
 
